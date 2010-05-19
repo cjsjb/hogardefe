@@ -3,27 +3,28 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-    title = "Hogar de fe"
-    tagline = "Created using Rosegarden 1.5.1 and LilyPond"
+	title = "Hogar de fe"
+	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
-global = { 
-    \time 4/4
-    \skip 1*20  %% 1-20
+global = {
+	\time 4/4
+	\skip 1*20  %% 1-20
 }
 globalTempo = {
-    \tempo 4 = 70  \skip 1*20 
+	\tempo 4 = 70  \skip 1*20
 }
 \score {
-    <<
-        % force offset of colliding notes in chords:
-        \override Score.NoteColumn #'force-hshift = #1.0
+	<<
+		% force offset of colliding notes in chords:
+		\override Score.NoteColumn #'force-hshift = #1.0
 
-        \include "hogardefe-soprano.inc"
-        \include "hogardefe-mezzo.inc"
-        \include "hogardefe-tenor.inc"
-    >> % notes
+		\include "hogardefe-soprano.inc"
+		\include "hogardefe-mezzo.inc"
+		\include "hogardefe-tenor.inc"
 
-    \layout { }
+	>> % notes
+
+	\layout { }
 } % score
