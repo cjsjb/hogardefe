@@ -20,6 +20,7 @@ globalTempo = {
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
+		\include "hogardefe-acordes.inc"
 		\include "hogardefe-soprano.inc"
 		\include "hogardefe-mezzo.inc"
 		\include "hogardefe-tenor.inc"
