@@ -6,7 +6,7 @@
     \new Voice \global
     \new Voice \globalTempo
 
-	\context Voice = "voice 1" {
+	\context Voice = "soprano" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
