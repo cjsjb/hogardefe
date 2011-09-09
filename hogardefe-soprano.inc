@@ -39,4 +39,26 @@
 		g' 1  |
 		\bar "|."
 	} % Voice
+	\lyricsto "soprano" \new Lyrics \lyricmode {
+		Tú y yo, __ an -- te Dios __
+		ha -- re -- mos nues -- tros vo -- tos
+		de co -- ra -- zón, en "su a" -- mor. __
+
+		Y se -- re -- mos pa -- ra Él __
+		un ho -- gar fuer -- "te y" fiel,
+		que su nom -- bre pro -- cla -- ma -- rá. __
+
+		Ha -- re -- mos un ho -- gar de fe
+		pa -- ra jun -- tos com -- par -- tir
+		que cuan -- do so -- "ple el" vien -- to
+		no cae -- rá. __
+
+		Con -- fia -- re -- mos en Él
+		"y el" mun -- do sa -- brá
+		que so -- mos un ho -- gar de fe.
+
+		Con -- fia -- re -- mos en Él
+		"y el" mun -- do sa -- brá
+		que so -- mos un ho -- gar de fe.
+	}
 >>
