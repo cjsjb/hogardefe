@@ -12,8 +12,9 @@
 
 		\clef "treble"
 		\key g \major
-		r4 r r g' 8 fis' 16 g' ~  |
-		g' 4 g' 8 fis' 16 g' ~ g' 4 r8 r16 g'  |
+
+		r2. g' 8 fis' 16 g' ~  |
+		g' 4 g' 8 fis' 16 g' ~ g' 4 r8. g' 16  |
 		fis' 8 g' fis' e' 16 e' ~ e' d' 8 d' 16 g' 8. fis' 16  |
 		d' 4 a' 8. fis' 16 d' 2 ~  |
 		%% 5
