@@ -4,6 +4,8 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Hogar de fe"
+	composer = "Steve Green"
+	copyright = "Copyright © 1986 Sparrow Records"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
