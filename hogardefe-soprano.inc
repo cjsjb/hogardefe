@@ -37,6 +37,7 @@
 		e' 8 e' c'' b' a' 4. g' 8  |
 		%% 20
 		g' 1  |
+		r1  |
 		\bar "|."
 	} % Voice
 	\lyricsto "soprano" \new Lyrics \lyricmode {
