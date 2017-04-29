@@ -7,7 +7,7 @@
 	composer = "Steve Green"
 	copyright = "Copyright © 1986 Sparrow Records"
 	tagline = "Coro Juvenil San Juan Bosco"
-	instrument = "Soprano"
+	instrument = "Mezzosoprano"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -24,7 +24,7 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "hogardefe-acordes.inc"
-		\include "hogardefe-soprano.inc"
+		\include "hogardefe-mezzo.inc"
 	>>
 
 	\layout { }

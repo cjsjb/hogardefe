@@ -12,10 +12,10 @@
 #(set-default-paper-size "letter")
 global = {
 	\time 4/4
-	\skip 1*20  %% 1-20
+	\skip 1*40  %% 1-40
 }
 globalTempo = {
-	\tempo 4 = 70  \skip 1*20
+	\tempo 4 = 70  \skip 1*40
 }
 \score {
 	<<
@@ -23,9 +23,11 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "hogardefe-acordes.inc"
-		\include "hogardefe-soprano.inc"
-		\include "hogardefe-mezzo.inc"
-		\include "hogardefe-tenor.inc"
+		\new StaffGroup <<
+			\include "hogardefe-soprano.inc"
+			\include "hogardefe-mezzo.inc"
+			\include "hogardefe-tenor.inc"
+		>>
 
 	>> % notes
 
