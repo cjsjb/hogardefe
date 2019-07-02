@@ -34,8 +34,13 @@ globalTempo = {
 			\include "hogardefe-mezzo.inc"
 			\include "hogardefe-tenor.inc"
 		>>
+		\include "hogardefe-violin.inc"
 
 	>> % notes
 
-	\layout { }
+	\layout {
+		\context {
+			\RemoveEmptyStaffContext
+		}
+	}
 } % score
