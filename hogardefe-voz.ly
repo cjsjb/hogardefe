@@ -15,7 +15,7 @@
 	first-page-number = 1
 }
 global = {
-	\time 4/4
+	\time 2/4
 }
 globalTempo = {
 	\tempo 4 = 70

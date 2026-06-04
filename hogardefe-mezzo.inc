@@ -12,49 +12,82 @@
 
 		\clef "treble"
 		\key g \major
-		R1*4  |
-%% 5
-		r2 r4 g' 8 fis' 16 d' ~  |
-		d' 4 g' 8 fis' 16 d' ( ~ d' 4 ~ d' 8 c' 16 b  |
-		c' 16 d' 8. ~ d' 4 ~ d' 16 ~ d' ~ d' ) d' g' 8. fis' 16  |
-		d' 4 g' 8. fis' 16 fis' 2 ~  |
-		fis' 4 d' 8 d' 16 d' ~ d' 8 d' e' d' 16 b ~  |
+		R2*8  |
+		r4 g' 8 fis' 16 d' ~  |
 %% 10
-		b 4 r8 b 16 b d' 8. c' 16 ~ c' 8 d'  |
-		b 4 r8 b 16 b e' e' 8 c' 16 e' g' 8 fis' 16 ( ~  |
-		fis' 16 g' fis' 4. ) r8 g' g' fis'  |
-		e' 8 c' 16 e' ~ e' 8 r r g' 16 fis' 8 ( e' 16 d' 8 )  |
-		d' 8 d' 16 d' ~ d' 8 e' e' 4 r8 r16 e'  |
+		d' 4 g' 8 fis' 16 d' ( ~  |
+		d' 4 ~ d' 8 c' 16 b  |
+		c' 16 d' 8. ~ d' 4 ~  |
+		d' 16 ~ d' ~ d' ) d' g' 8. fis' 16  |
+		d' 4 g' 8. fis' 16  |
 %% 15
-		g' 8 e' 16 g' ~ g' 8 e' 16 g' ~ g' e' ~ e' 8 g' 16 a' 8 a' 16 ~  |
-		a' 2 r4 g' 8 fis'  |
-		e' 8. e' 16 ~ e' 4 r8 g' 16 fis' 8 ( e' 16 d' 8 )  |
-		g' 8. g' 16 ~ g' 8 a' b' 4 r8 g'  |
-		g' 8 g' g' g' fis' 4. g' 8  |
+		fis' 2 ~  |
+		fis' 4 d' 8 d' 16 d' ~  |
+		d' 8 d' e' d' 16 b ~  |
+		b 4 r8 b 16 b  |
+		d' 8. c' 16 ~ c' 8 d'  |
 %% 20
-		g' 2 r  |
-		R1*3  |
-		r2 r4 g' 8 fis' 16 d' ~  |
+		b 4 r8 b 16 b  |
+		e' 16 e' 8 c' 16 e' g' 8 fis' 16 ( ~  |
+		fis' 16 g' fis' 4. )  |
+		r8 g' g' fis'  |
+		e' 8 c' 16 e' ~ e' 8 r  |
 %% 25
-		d' 8 r16 d' g' 8 fis' 16 d' ( ~ d' 4 r8 c' 16 b  |
-		c' 16 d' 8. ~ d' 4 ~ d' 16 ~ d' ~ d' ) d' g' 8. fis' 16  |
-		d' 8. d' 16 g' 8. fis' 16 fis' 2  |
-		r8 d' d' d' 16 d' ~ d' 8 d' e' d' 16 b ~  |
-		b 4 r16 b b b d' 8. c' 16 ~ c' 8 d'  |
+		r8 g' 16 fis' 8 ( e' 16 d' 8 )  |
+		d' 8 d' 16 d' ~ d' 8 e'  |
+		e' 4 r8 r16 e'  |
+		g' 8 e' 16 g' ~ g' 8 e' 16 g' ~  |
+		g' 16 e' ~ e' 8 g' 16 a' 8 a' 16 ~  |
 %% 30
-		b 4 r16 b b b e' 8 c' 16 e' 8. g' 16 fis' ( ~  |
-		fis' 16 g' fis' 4. ) r8 g' g' fis'  |
-		e' 8 c' 16 e' ~ e' 8 r r g' 16 fis' 8 ( e' 16 d' 8 )  |
-		d' 8 d' 16 d' ~ d' 8 e' e' 4 r8 r16 e'  |
-		g' 8 e' 16 g' ~ g' 8 e' 16 g' ~ g' e' ~ e' 8 g' 16 a' 8 a' 16 ~  |
+		a' 2  |
+		r4 g' 8 fis'  |
+		e' 8. c'' 16 ~ c'' 8 b'  |
+		a' 4 r8 d''  |
+		d'' 8. b' 16 ~ b' 8 a'  |
 %% 35
-		a' 2 r4 g' 8 fis'  |
-		e' 8. e' 16 ~ e' 4 r8 g' 16 fis' 8 ( e' 16 d' 8 )  |
-		g' 8. g' 16 ~ g' 8 a' b' 4 r8 g'  |
-		g' 8 g' g' g' fis' 4. g' 8  |
-		g' 1  |
-%% 40
-		R1
+		g' 4 r8 fis'  |
+		e' 8 e' c'' b'  |
+		a' 4. g' 8  |
+		g' 2  |
+		R2*8  |
+		r4 g' 8 fis' 16 d' ~  |
+		d' 8 r16 d' g' 8 fis' 16 d' ( ~  |
+		d' 4 r8 c' 16 b  |
+%% 50
+		c' 16 d' 8. ~ d' 4 ~  |
+		d' 16 ~ d' ~ d' ) d' g' 8. fis' 16  |
+		d' 8. d' 16 g' 8. fis' 16  |
+		fis' 2  |
+		r8 d' d' d' 16 d' ~  |
+%% 55
+		d' 8 d' e' d' 16 b ~  |
+		b 4 r16 b b b  |
+		d' 8. c' 16 ~ c' 8 d'  |
+		b 4 r16 b b b  |
+		e' 8 c' 16 e' 8. g' 16 fis' ( ~  |
+%% 60
+		fis' 16 g' fis' 4. )  |
+		r8 g' g' fis'  |
+		e' 8 c' 16 e' ~ e' 8 r  |
+		r8 g' 16 fis' 8 ( e' 16 d' 8 )  |
+		d' 8 d' 16 d' ~ d' 8 e'  |
+%% 65
+		e' 4 r8 r16 e'  |
+		g' 8 e' 16 g' ~ g' 8 e' 16 g' ~  |
+		g' 16 e' ~ e' 8 g' 16 a' 8 a' 16 ~  |
+		a' 2  |
+		r4 g' 8 fis'  |
+%% 70
+		e' 8. c'' 16 ~ c'' 8 b'  |
+		a' 4 r8 d''  |
+		d'' 8. b' 16 ~ b' 8 a'  |
+		g' 4 r8 fis'  |
+		e' 8 e' c'' b'  |
+%% 75
+		a' 4. g' 8  |
+		g' 2 ~  |
+		g' 2  |
+		R2  |
 		\bar "|."
 	}
 	\new Lyrics \lyricsto "voz-mezzo" {

@@ -2,7 +2,7 @@
 	\chords {
 		\set chordChanges = ##t
 		% intro
-		R1
+		R2
 		c2 d2
 		g2 e2:m
 		c2 d2
