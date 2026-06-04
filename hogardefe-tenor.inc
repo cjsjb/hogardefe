@@ -57,7 +57,7 @@
 %% 40
 		R1  |
 		\bar "|."
-	} % Voice
+	}
 	\new Lyrics \lyricsto "voz-tenor" {
 		Tú y yo, __ an -- te Dios __
 		ha -- re -- mos nues -- tros vo -- tos

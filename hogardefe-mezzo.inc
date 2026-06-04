@@ -56,7 +56,7 @@
 %% 40
 		R1
 		\bar "|."
-	} % Voice
+	}
 	\new Lyrics \lyricsto "voz-mezzo" {
 		Tú y yo, __ an -- te "Dios..." __
 		"...de" co -- ra -- zón, en "su a" -- mor. __
